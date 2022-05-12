@@ -86,5 +86,11 @@
     <ClCompile Include="src\56_auto.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="src\57_StaticArray.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\58_FunctionPtr.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
