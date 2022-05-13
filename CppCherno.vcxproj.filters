@@ -92,5 +92,11 @@
     <ClCompile Include="src\58_FunctionPtr.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="src\59_Lambda.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\61_NameSpace.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
