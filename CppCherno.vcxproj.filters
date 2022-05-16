@@ -98,5 +98,11 @@
     <ClCompile Include="src\61_NameSpace.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="src\35_mutable.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\62_Threads.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

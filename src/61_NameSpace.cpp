@@ -15,6 +15,8 @@ int main()
 	{
 		using namespace QC;
 		print();
+		cout << "hello" << endl;
 	}
+	print();
 	std::cin.get();
 }
